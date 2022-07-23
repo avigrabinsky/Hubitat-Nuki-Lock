@@ -8,13 +8,13 @@ To start using the driver, follow the instructions below.
 
  Instructions:
   1. Add driver to Hubitat: on your Hubitat web interface, go to "Drivers code", click on "New Driver", copy and paste the "nuki-lock.groovy" file content and hit Save.  
- _Connecting to Nuki Web service:_
+  _Connecting to Nuki Web service:_
   2. In the Nuki App, go to "manage my devices" -> Smart Lock -> choose your lock -> "Features & Configuration" -> "Manage Nuki Web". 
   3. Follow the instructions and register to the service.
- _Creating an API Token:_
-  4. Go to https://web.nuki.io/#/pages/web-api
-  5. Under "API tokens", click on "Generate API token", provide a name, click "Save" and copy the token
-  6. On the Hubitat Nucky lock driver page, under "Preferences", paste the token you copied on step 2, into "API Token" parameter.
-  7. Click "Save preferences"
+  _Creating an API Token:_
+  5. Go to https://web.nuki.io/#/pages/web-api
+  6. Under "API tokens", click on "Generate API token", provide a name, click "Save" and copy the token
+  7. On the Hubitat Nucky lock driver page, under "Preferences", paste the token you copied on step 2, into "API Token" parameter.
+  8. Click "Save preferences"
 
 Special thanks to Hubitat community (https://community.hubitat.com/) for assisting.
