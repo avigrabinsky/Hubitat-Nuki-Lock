@@ -1,7 +1,8 @@
-# Hubitat driver for Nuki lock
+# Hubitat driver for Nuki Lock
 
 This driver integrates Nuki locks with Hubitat.
-The Nuki lock must be connected to the Internet via a Nuki bridge or integrated WiFi support.
+The Nuki lock must be connected to Nuki web service via a Nuki bridge or integrated WiFi support.
+The driver was tested with Nuki lock 3 Pro, but should work with any Nuki lock connected to Nuki web service.
 
 To start using the lock, you need to first generate API token with Nuki, see instructions below.
 
