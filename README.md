@@ -1,4 +1,4 @@
-# Hubitat driver for Nuki locks
+# Hubitat driver for Nuki lock
 
 This driver integrates Nuki locks with Hubitat.
 The Nuki lock must be connected to the Internet via a Nuki bridge or integrated WiFi support.
