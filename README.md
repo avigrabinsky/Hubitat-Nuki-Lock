@@ -1,7 +1,6 @@
 # Hubitat driver for Nuki Smart Lock
 
 This driver integrates Nuki smart locks with Hubitat.
-To use the driver, make sure to connect Nuki lock to Nuki Web service via a Nuki bridge or via an integrated WiFi.
 The driver was tested with Nuki Smart Lock 3.0 Pro, but should work with any Nuki lock connected to Nuki web service.
 
 To start using the driver, follow the instructions below.
@@ -10,7 +9,7 @@ To start using the driver, follow the instructions below.
  
   1. Add driver to Hubitat: on your Hubitat web interface, go to "Drivers code", click on "New Driver", copy and paste the "nuki-lock.groovy" file content and hit Save.  
   
-  Connecting to Nuki Web service:
+  Connecting your lock to Nuki Web service (requires a Nuki bridge or an integrated WiFi):
   
   2. In the Nuki App, go to "manage my devices" -> Smart Lock -> choose your lock -> "Features & Configuration" -> "Manage Nuki Web". 
   3. Follow the instructions and register to the service.
