@@ -19,7 +19,7 @@ To start using the driver, follow the instructions below.
   
   4. Go to https://web.nuki.io/#/pages/web-api
   5. Under "API tokens", click on "Generate API token", provide a name, click "Save" and copy the token
-  6. On the Hubitat Nuki lock driver page, under "Preferences", paste the token you copied on step 2, into "API Token" parameter.
+  6. On the Hubitat Nuki lock driver page, under "Preferences", paste the token you copied on the previous step, into "API Token" parameter.
   7. Click "Save preferences"
 
 Special thanks to Hubitat community (https://community.hubitat.com/) for assisting.
