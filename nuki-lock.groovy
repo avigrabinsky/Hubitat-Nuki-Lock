@@ -5,13 +5,9 @@
  * 
  * To start using the lock, you need to first generate API token with Nuki, see instructions below.
  *
- * Instructions:
- * 1. Add driver to Hubitat: on your Hubitat web interface, go to "Drivers code", click on "New Driver", copy and past the "Nuki-lock" code and Save.
- * Creating an API Token:
- * 2. Go to https://web.nuki.io/#/pages/web-api
- * 3. Under "API tokens", click on "Generate API token", give a name, click Save and copy the token
- * 4. On the Hubitat Nucky lock driver page, under "Preferences", paste the token you copied in step 2 into "API Token"
- * 5. Click "Save preferences"
+ * Follow the instructions on the ReadMe file
+ *
+ * Writeen by Avi Grabisnky
  *
  */
 import groovy.json.JsonSlurper
