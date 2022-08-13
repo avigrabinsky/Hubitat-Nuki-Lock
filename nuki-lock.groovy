@@ -2,8 +2,6 @@
  * Nuki Lock driver
  *
  * Uses Nuki Cloud API for lock or unlock
- * 
- * To start using the lock, you need to first generate API token with Nuki, see instructions below.
  *
  * Follow the instructions on the README file
  *
